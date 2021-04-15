@@ -56,7 +56,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-* **Andre Luiz**: @g0ddark (https://github.com/g0ddark)
+* **Andre Luiz**: @AndreLuiz-JService (https://github.com/AndreLuiz-JService)
 * **Henrique Lucas**: @henriquepalhares (https://github.com/henriquepalhares)
 * **Pedro Gandra**: @PedroG47 (https://github.com/PedroG47)
 * **Gabriel Felipe**: @gabrielfelipefelie (https://github.com/gabrielfelipefelie)
