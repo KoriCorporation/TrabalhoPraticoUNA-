@@ -1,7 +1,7 @@
 # Saude e estar
 
 
-![capa do projeto](https://github.com/KoriCorporation/TrabalhoPraticoUNA-/blob/main/logo.png/850/280)
+![capa do projeto](https://github.com/KoriCorporation/TrabalhoPraticoUNA-/blob/main/logo.png)
 
 # Sobre o Projeto
 
