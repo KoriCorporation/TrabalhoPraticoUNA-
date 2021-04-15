@@ -36,7 +36,12 @@ contatos dos órgãos competentes, descrevendo cada situação a qual deve acion
 
 
 # Requisitos Funcionais 
-- [x] **Em processo**
+- [ ] Escolher categoria (pedestre, motociclista,  motorista)
+- [ ] Escolher subcategoria (ciclista, caminhoneiro, transporte de pessoas)
+- [ ] Informa órgãos competentes (polícia, ambulância, etc)
+- [ ] Instruir sobre primeiros socorros
+- [ ] Informar sobre leis de trânsito para cada categoria escolhida anteriormente 
+- [ ] Efetuar simulados para candidatos à prova do detran
 
 
 # Tecnologias Usadas
