@@ -5,7 +5,16 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+O trabalho proposto para o grupo tem a finalidade de desafiar os alunos a
+criarem uma solução tecnológica que possa contribuir para a comunidade visando
+ajudar na solução de uma das metas levantadas na Agenda ONU 2030 os 17 Objetivos
+do Desenvolvimento Sustentável. O tema escolhido pela equipe foi “Agenda ONU 2030
+Objetivo 3.6, reduzir pela metade as mortes e os ferimentos globais por acidentes em
+estradas“. Nesse contexto optamos desenvolver um aplicativo capaz de orientar a
+comunidade sobre os mais importantes aspectos do trânsito, a fim de reduzir o índice de
+acidentes nas estradas. Esse software irá dividir categorias entre ciclistas, pedestres e
+motoristas, informar leis, boas condutas e primeiros socorros além de disponibilizar
+contatos dos órgãos competentes, descrevendo cada situação a qual deve acioná-los.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
