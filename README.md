@@ -1,7 +1,7 @@
 # Saude e estar
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto]()
 
 # Sobre o Projeto
 
