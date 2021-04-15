@@ -1,7 +1,7 @@
 
 	
 
-# Saude e estar
+# Saude e bem estar
 
 
 ![capa do projeto](https://github.com/KoriCorporation/TrabalhoPraticoUNA-/blob/main/KoriCorporation.png)
