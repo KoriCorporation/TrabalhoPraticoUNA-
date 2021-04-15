@@ -60,7 +60,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 * **Henrique Lucas**: @henriquepalhares (https://github.com/henriquepalhares)
 * **Pedro Gandra**: @PedroG47 (https://github.com/PedroG47)
 * **Gabriel Felipe**: @gabrielfelipefelie (https://github.com/gabrielfelipefelie)
-* **Andre Luiz**: @g0ddark (https://github.com/g0ddark)
+
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](https://github.com/KoriCorporation/TrabalhoPraticoUNA-/blob/main/LICENSE) para mais detalhes.
