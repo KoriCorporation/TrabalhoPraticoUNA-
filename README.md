@@ -56,7 +56,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+***Andre Luiz***: @g0ddark (https://github.com/g0ddark)
 
 # Licença
 
