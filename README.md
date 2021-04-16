@@ -60,6 +60,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 * **Henrique Lucas**: @henriquepalhares (https://github.com/henriquepalhares)
 * **Pedro Gandra**: @PedroG47 (https://github.com/PedroG47)
 * **Gabriel Felipe**: @gabrielfelipefelie (https://github.com/gabrielfelipefelie)
+* **Wesley Azevedo**: @wesleyazevedocaetano (https://github.com/wesleyazevedocaetano)
 
 # Licença
 
