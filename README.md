@@ -56,12 +56,19 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-* **Andre Luiz**: @AndreLuiz-JService (https://github.com/AndreLuiz-JService)
-* **Henrique Lucas**: @henriquepalhares (https://github.com/henriquepalhares)
-* **Pedro Gandra**: @PedroG47 (https://github.com/PedroG47)
-* **Gabriel Felipe**: @gabrielfelipefelie (https://github.com/gabrielfelipefelie)
-* **Wesley Azevedo**: @wesleyazevedocaetano (https://github.com/wesleyazevedocaetano)
-* **Nicolas Marques**: @nicolas-marques (https://github.com/nicolas-marques)
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AndreLuiz-JService"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67371362?v=4" width="100px;" alt=""/><br /><sub><b>Andre Luiz</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/henriquepalhares"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54291680?v=4" width="100px;" alt=""/><br /><sub><b>Henrique Lucas</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/PedroG47"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49578117?v=4" width="100px;" alt=""/><br /><sub><b>Pedro Gandra</b></sub></a><br />
+    <td align="center"><a href="https://github.com/gabrielfelipefelie"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79948672?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Felipe</b></sub></a><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/wesleyazevedocaetano"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60723564?v=4" width="100px;" alt=""/><br /><sub><b>Wesley Azevedo</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/nicolas-marques"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80007124?v=4" width="100px;" alt=""/><br /><sub><b>Nicolas Marques</b></sub></a><br /></td>
+</table>
+
+
 
 # Licença
 
