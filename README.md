@@ -66,6 +66,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
   <tr>
     <td align="center"><a href="https://github.com/wesleyazevedocaetano"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60723564?v=4" width="100px;" alt=""/><br /><sub><b>Wesley Azevedo</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/nicolas-marques"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80007124?v=4" width="100px;" alt=""/><br /><sub><b>Nicolas Marques</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Schitine"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48837628?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Schitine</b></sub></a><br /></td>
 </table>
 
 
